@@ -31,9 +31,9 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="a51-tJ-lRG" firstAttribute="top" secondItem="3" secondAttribute="top" constant="206" id="1Q6-FI-aPU"/>
                             <constraint firstItem="1nU-0K-p8O" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="54" id="7C8-EG-trn"/>
                             <constraint firstItem="a51-tJ-lRG" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" type="default" id="K7b-wM-y2L"/>
+                            <constraint firstItem="a51-tJ-lRG" firstAttribute="top" secondItem="3" secondAttribute="top" constant="121" id="eqj-tC-IeF"/>
                             <constraint firstAttribute="bottom" secondItem="1nU-0K-p8O" secondAttribute="bottom" constant="232" id="iRD-3b-Oxy"/>
                         </constraints>
                     </view>
