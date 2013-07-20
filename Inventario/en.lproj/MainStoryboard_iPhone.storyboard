@@ -39,17 +39,20 @@
                                     <constraint firstAttribute="width" constant="114" id="qFV-fM-v4G"/>
                                 </constraints>
                             </slider>
+                            <switch opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="uOj-X2-piO"/>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="1nU-0K-p8O" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="54" id="7C8-EG-trn"/>
                             <constraint firstItem="S1T-JU-CpU" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="39" id="EkX-ng-YjO"/>
+                            <constraint firstItem="uOj-X2-piO" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="10" id="HGX-dC-wap"/>
                             <constraint firstItem="jRf-Sx-ybL" firstAttribute="trailing" secondItem="a51-tJ-lRG" secondAttribute="trailing" type="default" id="JDG-rH-Z0l"/>
                             <constraint firstItem="a51-tJ-lRG" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" type="default" id="K7b-wM-y2L"/>
                             <constraint firstItem="jRf-Sx-ybL" firstAttribute="top" secondItem="3" secondAttribute="top" constant="51" id="L2K-bT-afg"/>
                             <constraint firstItem="a51-tJ-lRG" firstAttribute="top" secondItem="3" secondAttribute="top" constant="121" id="eqj-tC-IeF"/>
                             <constraint firstAttribute="bottom" secondItem="1nU-0K-p8O" secondAttribute="bottom" constant="232" id="iRD-3b-Oxy"/>
                             <constraint firstAttribute="bottom" secondItem="S1T-JU-CpU" secondAttribute="bottom" constant="70" id="nTn-mm-uSe"/>
+                            <constraint firstItem="uOj-X2-piO" firstAttribute="top" secondItem="3" secondAttribute="top" constant="129" id="z3T-3p-jhi"/>
                         </constraints>
                     </view>
                 </viewController>
